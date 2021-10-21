@@ -11,7 +11,7 @@ apt upgrade
 
 apt install tor
 
-git clone https://github.com/ShuBhamg0sain/ip_changer
+git clone https://github.com/Monsterlallu/ip_changer
 
 cd ip_changer
 
